@@ -1,6 +1,6 @@
 import HelpBox from "./HelpBox";
 import "./HelpArea.css";
-
+// Just a simple array of objects with help items
 const HELP_ITEMS = [
   {
     id: "h1",
